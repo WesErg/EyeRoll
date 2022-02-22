@@ -15,7 +15,7 @@ A funny story ... never mind.
 
 [VideoServoTest](https://youtu.be/cDstRL1lU_U) video excercising joint
 
-## 
+[Be Quiet](https://odriverobotics.com/#odrive)
 
 ## Project Manafest (fancy to do list right now)
 - [ ] Jupyter notebook capturing the math
